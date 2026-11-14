@@ -8,17 +8,18 @@ Prepared for prospective engineering employers, implementation clients and softw
 
 ---
 
-## Rivet in use — approved product showcase
 
-![Designed Rivet portfolio composite based on five supplied app screenshots](assets/rivet-showcase-composite.jpg)
+## Rivet in use — genuine application screens
 
-*This showcase is a **designed composite derived from five app screenshots**, not a pixel-identical browser capture. The [individual source captures](SCREENSHOTS.md) are authentic application screenshots supplied by the project owner on November 14, 2026; their public copies have personal and analytics details redacted.*
+![Rivet portfolio composite derived from five supplied screenshots](assets/rivet-showcase-composite.jpg)
 
-| People Operations | Employee Journeys | Workflow Library |
+*The showcase is a designed **composite interpretation** of the user-provided app captures, not a pixel-exact or newly captured browser screenshot. Inspect the **redacted original app screenshots** below or in [SCREENSHOTS.md](SCREENSHOTS.md).*
+
+| People Operations | Employee journey | Workflows |
 |---|---|---|
-| ![Rivet People Ops](assets/people-ops-overview.png) | ![Rivet Employee Journeys](assets/employee-journey.png) | ![Rivet Workflows](assets/workflow-library.png) |
+| ![Redacted Rivet People Ops](assets/people-ops-overview.png) | ![Redacted Rivet employee journey](assets/employee-journey.png) | ![Rivet workflow library](assets/workflow-library.png) |
 
-The [screenshot gallery](SCREENSHOTS.md) also includes sanitized Visitor Intelligence Summary and Navigation Paths captures.
+The private Visitor Intelligence pages are also shown in [the screenshot gallery](SCREENSHOTS.md), with audience metrics and session IDs concealed. Screens were supplied from the app on November 14, 2026.
 
 ## Rivet in one sentence
 
@@ -36,7 +37,7 @@ A deeper **Adaptive Journeys** subsystem adds dependent tasks, forms, acknowledg
 
 | File | Purpose |
 |---|---|
-| [SCREENSHOTS.md](SCREENSHOTS.md) | Genuine redacted app screenshots and labeled showcase artwork |
+| [SCREENSHOTS.md](SCREENSHOTS.md) | Owner-supplied real UI screenshots, publicly redacted, plus a clearly labeled designed composite |
 | [BROCHURE.md](BROCHURE.md) | Employer/client marketing case study, positioning and product strengths |
 | [COMPARISON.md](COMPARISON.md) | Detailed side-by-side versus Rippling, HiBob, BambooHR and Moxo |
 | [FEATURE-MATRIX.md](FEATURE-MATRIX.md) | Source-mapped, individually itemized capabilities and gaps |
@@ -44,8 +45,8 @@ A deeper **Adaptive Journeys** subsystem adds dependent tasks, forms, acknowledg
 | [VISITOR-INTELLIGENCE.md](VISITOR-INTELLIGENCE.md) | Private, consent-based analytics with explicit limits |
 | [VERIFICATION-AND-STATUS.md](VERIFICATION-AND-STATUS.md) | Exact deployment branch/commit, recorded tests, readiness boundaries |
 | [METHODOLOGY.md](METHODOLOGY.md) | Current source pointers and competitor-owned references |
-| [index.html](index.html) | Responsive navy/teal visual brochure featuring app screenshots and a designed composite |
-| [Rivet_Portfolio_Brochure.pdf](Rivet_Portfolio_Brochure.pdf) | Printable eight-page brochure with original app screenshots |
+| [index.html](index.html) | Responsive navy/teal visual brochure; includes a grounded illustrative architecture diagram |
+| [Rivet_Portfolio_Brochure.pdf](Rivet_Portfolio_Brochure.pdf) | Printable visual brochure with appended screenshot evidence |
 
 ## Evidence, not inflated claims
 
